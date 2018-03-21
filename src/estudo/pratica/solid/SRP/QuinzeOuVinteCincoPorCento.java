@@ -1,4 +1,4 @@
-package estudo.pratica.solid;
+package estudo.pratica.solid.SRP;
 
 public class QuinzeOuVinteCincoPorCento implements RegraDeCalculo {
 
